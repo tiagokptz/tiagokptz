@@ -1,5 +1,7 @@
-# Tiago Elias
+___
 
+# Tiago Elias
+___
 
 ## ⚙️ Linguagens
 <div style="display: inline_block">
@@ -9,19 +11,24 @@
     <img align="center" alt="CCS3" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
     <img align="center" alt="PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-</div>
+</div><br>
 
 ## 📌 Frameworks/Bibliotecas
 <div style="display: inline_block">
     <img align="center" alt="Spring Boot" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
     <img align="center" alt="Next.js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-</div>
+    <img align="center" alt="Next.js" height="60" width=60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+</div><br>
 
 ## 🛠️ Ferramentas
 <div style="display: inline_block">
     <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
     <img align="center" alt="Postman" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
-</div>
+    <img align="center" alt="Next.js" height="60" width=60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+</div><br>
+
+* Estou iniciando em __Next.js__ e __Docker__ enquanto aprimoro meus conhecimentos em __Spring Boot__.
+___
 
 
 ## 📞 Fale comigo 
