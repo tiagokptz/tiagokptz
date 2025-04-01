@@ -1,7 +1,7 @@
 ## ⚙️ Linguagens
 ___
 <div style="display: inline_block">
-    <img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+    <img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
 </div>
 
 
