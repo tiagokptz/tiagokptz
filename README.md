@@ -17,7 +17,6 @@ ___
 <div style="display: inline_block">
     <img align="center" alt="Spring Boot" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
     <img align="center" alt="Next.js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-    <img align="center" alt="Next.js" height="60" width=60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
 </div><br>
 
 ## 🛠️ Ferramentas
