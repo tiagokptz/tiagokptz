@@ -1,6 +1,12 @@
 ___
 
 # Tiago Elias
+
+<ul>
+  <li><span style="font-size: 17px;">🎓 Estudante de Ciências da Computação na Faculdade Católica da Paraíba</span></li>
+  <li><span style="font-size: 17px;">⚙️ Entusiasta e aspirante a desenvolvedor backend</span></li>
+</ul>
+
 ___
 
 ## ⚙️ Linguagens
